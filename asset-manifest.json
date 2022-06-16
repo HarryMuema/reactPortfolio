@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.f30edec8.css",
+    "main.js": "/reactPortfolio/static/js/main.6c5b4db4.js",
+    "static/media/AkanName.png": "/reactPortfolio/static/media/AkanName.0c492259ebf99168a5d0.png",
+    "static/media/Ajuju.png": "/reactPortfolio/static/media/Ajuju.5c4d8f4d64875b00d354.png",
+    "static/media/Poppins-Thin.ttf": "/reactPortfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/reactPortfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/reactPortfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/reactPortfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/reactPortfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/reactPortfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/reactPortfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/banner-image.png": "/reactPortfolio/static/media/banner-image.b68bdeada83bcb8b8f98.png",
+    "static/media/bg.jpg": "/reactPortfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "index.html": "/reactPortfolio/index.html",
+    "main.f30edec8.css.map": "/reactPortfolio/static/css/main.f30edec8.css.map",
+    "main.6c5b4db4.js.map": "/reactPortfolio/static/js/main.6c5b4db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f30edec8.css",
+    "static/js/main.6c5b4db4.js"
+  ]
+}
